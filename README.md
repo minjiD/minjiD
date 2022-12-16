@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <head>
 </head>
 <body>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&#128522;%20&fontSize=90" />
 </body>
 </html>
