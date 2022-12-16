@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <html>
 <head>
 </head>
-<body>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&#128522;%20I&rsquo;m%20MINJI&fontSize=90" align="center" />
+<body align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&#128522;%20I&rsquo;m%20MINJI&fontSize=90" />
   
   <h3 align="center">📚 Tech Stack 📚</h3>
   <p align="center">I've used at least once</p>
