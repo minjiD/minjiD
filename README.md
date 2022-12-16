@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
   </p>
 
-  <h3 align="center">Me</h3>
+  <h3 align="center">🤙 Contact Me 🤙</h3>
   <p align="center">
     <a href="mailto:ssosso12347@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
   </p>
