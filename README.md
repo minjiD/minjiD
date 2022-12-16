@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&#128522;%20I&rsquo;m%20MINJI&fontSize=90" />
   
   <h3 align="center">📚 Tech Stack 📚</h3>
-  <span align="center">I've used at least once</span>
+  <p align="center">I've used at least once</p>
   <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
