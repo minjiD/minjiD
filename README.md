@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </div>
 
   <h3 align="center">📚 Tech Stack 📚</h3>
-  <p align="center">I've used at least once</p>
+  <p align="center">💡 I've used at least once</p>
   <p align="center">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 
   <h3 align="center">🤙 Contact Me 🤙</h3>
   <p align="center">
-    <a href="mailto:ssosso12347@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+    <a href="mailto:ssosso12347@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ssosso12347@gmail.com"/></a>
+    <a href="https://www.linkedin.com/in/minji-kim-458933252/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minji-kim-458933252/"/></a>
   </p>
 </body>
 </html>
